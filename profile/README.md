@@ -3,7 +3,7 @@
 **Centauri** es una empresa especializada en la creación de retratos en vivo durante eventos sociales, empresariales o culturales. Fusionamos arte, tecnología y emoción para ofrecer una experiencia única a cada asistente.
 
 <p align="center">
-  <img src="ruta-del-logo.svg" alt="Centauri Logo" width="250"/>
+  <img src="https://storapdev.blob.core.windows.net/public/logotipo.svg" alt="Centauri Logo" width="250"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@ En Centauri transformamos momentos en retratos únicos realizados en tiempo real
 
 ## 📸 Galería
 
-👉 Mira ejemplos de nuestro trabajo en [centauri.art](https://centauri.art) *(o link a portafolio en redes)*
+👉 Mira ejemplos de nuestro trabajo en [centauri.art (en progreso)](https://centauri.art)
 
 ---
 
@@ -57,9 +57,9 @@ o llena este [formulario de interés](#)
 
 ## 📬 Contacto
 
-- 🌐 [centauri.art](https://centauri.art)
+- 🌐 [centauri.art (en progreso)](https://centauri.art)
 - 📧 hola@centauri.art
-- 📸 Instagram: [@centauri.art](https://instagram.com/centauri.art)
+- 📸 Instagram: [@centauri.art (en progreso)](https://instagram.com/centauri.art)
 - 📍 Basados en Monterrey, México — disponibles para todo el país
 
 ---
